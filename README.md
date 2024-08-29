@@ -5,7 +5,7 @@ Time series analysis focuses on data collected at successive intervals to uncove
 ## Objective
 To analyze and forecast stock market feature values for Coursera using the ARIMA algorithm.
 
-## Datasets
+## Dataset
 
 The <a href="https://finance.yahoo.com/quote/COUR/?guccounter=1" target="_blank">time series data</a> is from the stock market of Coursera and was gathered from Yahoo Finance, from 2021-03-31 to 2024-03-26. 
 
